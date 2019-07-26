@@ -1,3 +1,3 @@
-var num1 = 2;
-var num2 = 4;
-var sum = num1 + num2;
+var num3 = 9;
+var num5 = 10;
+var sum = num3 + num5;
